@@ -1,0 +1,7 @@
+Pods/AudioKit/AudioKit.xcframework/ios-arm64_armv7/AudioKit.framework/AudioKit filter=lfs diff=lfs merge=lfs -text
+Pods/AudioKit/AudioKit.xcframework/ios-arm64_i386_x86_64-simulator/AudioKit.framework/AudioKit filter=lfs diff=lfs merge=lfs -text
+Pods/AudioKit/AudioKit.xcframework/tvos-arm64/AudioKit.framework/AudioKit filter=lfs diff=lfs merge=lfs -text
+Pods/AudioKit/AudioKit.xcframework/tvos-arm64_x86_64-simulator/AudioKit.framework/AudioKit filter=lfs diff=lfs merge=lfs -text
+Pods/AudioKit/AudioKit.xcframework/macos-x86_64/AudioKit.framework/Versions/A/AudioKit filter=lfs diff=lfs merge=lfs -text
+Pods/AudioKit/AudioKit.xcframework/ios-x86_64-maccatalyst/AudioKit.framework/Versions/A/AudioKit filter=lfs diff=lfs merge=lfs -text
+Pods/Realm/core/librealmcore-ios.a filter=lfs diff=lfs merge=lfs -text
